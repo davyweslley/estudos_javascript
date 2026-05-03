@@ -18,6 +18,4 @@ Uma caixa interativa que responde a três eventos de mouse:
 
 ## 📁 Arquivo
 
-Codigo em anexo na parte superior deste repositório | abra diretamente no navegador para testar
-
-[Acesse o código completo aqui](https://github.com/davyweslley/Estudos-JavaScript/blob/main/DOM/eventos-dom.html)
+[Acesse o código completo aqui](https://github.com/davyweslley/Estudos-JavaScript/blob/main/DOM/eventos-dom.html) | abra diretamente no navegador para testar
