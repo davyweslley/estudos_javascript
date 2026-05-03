@@ -5,9 +5,9 @@ Exercício prático de manipulação de eventos do DOM com JavaScript.
 ## 📋 O que o exercício faz
 
 Uma caixa interativa que responde a três eventos de mouse:
-- **Click** — muda o texto e a cor para azul
-- **Mouse Enter** — muda o texto ao passar o cursor por cima
-- **Mouse Out** — muda o texto e a cor para marrom ao sair
+- **Click** -> muda o texto e a cor para azul
+- **Mouse Enter** -> muda o texto ao passar o cursor por cima
+- **Mouse Out** -> muda o texto e a cor para marrom ao sair
 
 ## 🧠 Conceitos praticados
 
