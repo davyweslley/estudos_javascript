@@ -18,4 +18,4 @@ Uma caixa interativa que responde a três eventos de mouse:
 
 ## 📁 Arquivo
 
-[eventos-dom.html](DOM/Ex/eventos-dom.html) — abra diretamente no navegador para testar
+Codigo em anexo na parte superior deste repositório | abra diretamente no navegador para testar
