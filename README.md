@@ -7,7 +7,7 @@ minha jornada de aprendizado em JavaScript.
 
 | Exercício | Descrição | Conceitos |
 |---|---|---|
-| [Eventos DOM](fundamentos/dom/eventos-dom.html) | Caixa interativa que responde a eventos de mouse | addEventListener, innerText, element.style |
+| [Eventos DOM](DOM/eventos_dom.html) | Caixa interativa que responde a eventos de mouse | addEventListener, innerText, element.style |
 
 ## 🛠️ Tecnologias
 
