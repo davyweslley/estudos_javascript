@@ -1,0 +1,84 @@
+<!--
+  Exercício: Eventos DOM
+  Objetivo: Praticar addEventListener com eventos de mouse
+  Conceitos: click, mouseenter, mouseout, innerText, style
+  Data: Mai/2026
+-->
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eventos DOM</title>
+    <style>
+        body {
+            background-color: rgb(118, 215, 240);
+            text-align: center;
+            font: normal 20pt calibri;
+        }
+        div#bgh1 {
+            background-color: rgb(9, 19, 156);
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100px;
+        }
+        h1 {
+            color: rgb(188, 191, 229);
+            position: absolute;
+            top: 10px;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 40pt;
+        }
+        h2 {
+            color: rgb(4, 8, 66);
+            position: absolute;
+            top: 100px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 16pt;
+        }
+        div#area {
+            background: rgb(127, 31, 236);
+            color:rgb(255, 255, 255);
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 400px;
+            height: 150px;
+            line-height: 150px;
+            text-align: center;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div id = "bgh1"> <h1>Eventos DOM</h1> </div>
+    <h2>Exercício prático de manipulação de eventos do <strong>DOM</strong> com JavaScript.</h2>
+    <div id = "area">
+        Interaja com este botão...
+    </div>
+    <script>
+        var a  = document.getElementById('area')
+        a.addEventListener('click', clicar)
+        a.addEventListener('mouseenter', entrar)
+        a.addEventListener('mouseout', sair)
+        function clicar() {
+            a.innerText = 'Clicou!'
+            a.style.background = 'blue'
+        }
+        function entrar() {
+            a.innerText = 'Entrou!'
+            a.style.background = 'green'
+        }
+        function sair() {
+            a.innerText = 'Saiu!'
+            a.style.background = 'brown'
+        }
+    </script>
+</body>
+</html>
