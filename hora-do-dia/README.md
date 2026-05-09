@@ -29,3 +29,12 @@ toda a interface conforme o período do dia:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 📁 Estrutura
+
+hora-do-dia/
+  hora-do-dia.html
+  style.css
+  script.js
+  img/
+    fotomanha.png
+    fototarde.png
+    fotonoite.png
