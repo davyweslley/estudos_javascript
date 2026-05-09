@@ -8,7 +8,7 @@ minha jornada de aprendizado em JavaScript.
 | Exercício | Descrição | Conceitos |
 |---|---|---|
 | [Eventos DOM](https://github.com/davyweslley/Estudos-JavaScript/blob/main/DOM/README.md) | Caixa interativa que responde a eventos de mouse | addEventListener, innerText, element.style |
-| [Hora do Dia](https://github.com/davyweslley/Estudos-JavaScript/tree/main/hora-do-dia#readme) | Página que detecta a hora do sistema e muda imagem, texto e cor de fundo conforme o período do dia | Date(), getHours(), if/else, DOM |
+| [Hora do Dia](https://github.com/davyweslley/Estudos-JavaScript/tree/main/hora-do-dia#readme) | Página que detecta a hora do sistema e muda imagem, texto e cor de fundo conforme o período do dia | Date, getHours, if/else, DOM |
 
 ## 🛠️ Tecnologias
 
