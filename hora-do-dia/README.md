@@ -30,20 +30,11 @@ toda a interface conforme o período do dia:
 
 ## 📁 Estrutura
 
-hora-do-dia/
-├── hora-do-dia.html
-├── style.css
-├── script.js
-└── img/
-├── fotomanha.png
-├── fototarde.png
-└── fotonoite.png
-
-hora-do-dia/
-  hora-do-dia.html
-  style.css
-  script.js
-  img/
-    fotomanha.png
-    fototarde.png
-    fotonoite.png
+- hora-do-dia/
+-  hora-do-dia.html
+-  style.css
+-  script.js
+-  img/
+-    fotomanha.png
+-    fototarde.png
+-    fotonoite.png
