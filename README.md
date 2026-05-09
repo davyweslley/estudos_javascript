@@ -19,4 +19,5 @@ minha jornada de aprendizado em JavaScript.
 ## 📈 Progresso
 
 - ✅ Eventos DOM
+- ✅ Hora do dia dinâmica
 - 🔄 Em andamento...
