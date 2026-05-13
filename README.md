@@ -9,6 +9,7 @@ minha jornada de aprendizado em JavaScript.
 |---|---|---|
 | [Eventos DOM](https://github.com/davyweslley/Estudos-JavaScript/blob/main/DOM/README.md) | Caixa interativa que responde a eventos de mouse | addEventListener, innerText, element.style |
 | [Hora do dia](https://github.com/davyweslley/Estudos-JavaScript/tree/main/hora-do-dia#readme) | Página que detecta a hora do sistema e muda imagem, texto e cor de fundo conforme o período do dia | Date, getHours, if/else, DOM |
+| [Gestor de idade](https://github.com/davyweslley/Estudos-JavaScript/tree/main/gestor-de-idade) | Página que ao inserir o ano de nascimento e o sexo, calcula dinamicamente a idade do individuo e apresenta uma imagem dinamica | Date, if/else, button, div, DOM |
 
 ## 🛠️ Tecnologias
 
@@ -20,4 +21,5 @@ minha jornada de aprendizado em JavaScript.
 
 - ✅ Eventos DOM
 - ✅ Hora do dia dinâmica
+- ✅ Gestor de idade
 - 🔄 Em andamento...
